@@ -1,5 +1,4 @@
-# Dumper
-MITRE: OS Credential Dumping 
+# MITRE: OS Credential Dumping 
 
 Tool to search memory patterns of a process
 
